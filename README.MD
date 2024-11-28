@@ -7,6 +7,8 @@ Este projeto é um exercício prático de testes de QA para o aplicativo Urban.S
 **Contexto**
  O projeto no Urban.Scooter busca melhorar sua estabilidade e a experiência do usuário através de testes detalhados e relatórios de bugs. O objetivo é validar a interface de usuário (UI) e as funcionalidades da API, assegurando que os recursos operem conforme o esperado e que quaisquer falhas sejam documentadas para correção.
 
+**Obs (EN-PT):** This project is in portuguese / Esse projeto está em português.
+
 ---
 
 ### Objetivos
